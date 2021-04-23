@@ -19,7 +19,7 @@ Strona stworzona na architekturze javascript i react, ktorej zadaniem jest wyszu
 
 ## Technologies
 * Axios - version 6.14.12
-* Tech 2 - version 2.0
+* ES 7 - version 2.8.-
 * Tech 3 - version 3.0
 
 ## Setup
